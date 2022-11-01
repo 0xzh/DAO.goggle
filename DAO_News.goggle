@@ -1,0 +1,9 @@
+! name: DAO Communities and News Resources
+! description: Provides links to Medical DAO communities and updates on Medical DAOs
+! public: true
+! author: Me
+
+
+$discard
+$boost=4,site=https://www.meddao.xyz/
+$boost=4,site=https://www.biodao.xyz/
